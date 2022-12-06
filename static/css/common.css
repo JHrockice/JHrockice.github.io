@@ -139,7 +139,7 @@ input:-webkit-autofill {
   text-align: center;
 }
 .footer a {
-  text-decoration: underline;
+  text-decoration: none;
   color: #000000;
   padding: 0 4px;
   white-space: nowrap;
