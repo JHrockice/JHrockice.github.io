@@ -1,9 +1,9 @@
 encoding: utf-8
 
 # SEO相关信息
-title: 中森明菜40年发布歌曲查询系统
+title: 中森明菜40年发布歌曲检索查询系统
 description: JHrockice的博客
-keywords: JHrockice,jhrockice,Blog,中森明菜,歌曲,akina,Akina,Nakamori
+keywords: JHrockice,jhrockice,Blog,中森明菜,歌曲,akina,Akina,Nakamori,检索,查询,单曲,专辑
 author: JHrockice
 footerText: 'Copyright © JHrockice </a>'
 
@@ -24,19 +24,9 @@ baseurl: ''
 # 必填字段 title: '文本' url: '链接'
 # 可选字段 target: '_blank' 新页面打开 
 menu:
+  - title: 说明
+    url: /pages/about.html
   - title: 搜索
     url: /pages/search.html
   - title: 归类
     url: /pages/categories.html
-  - title: 说明
-    url: /pages/about.html
-
-# 点击页面文字冒出特效,不需要请设置为false
-extClickEffect: false
-
-# Google Adsense,不需要请设置为false
-# _includes/ext-adsense.html 里面修改为自己的配置
-extAdsense: false
-
-# 数学公式支持，比较影响加载速度,不需要请设置为false
-extMath: false
