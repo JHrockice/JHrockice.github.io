@@ -24,7 +24,7 @@ baseurl: ''
 # 必填字段 title: '文本' url: '链接'
 # 可选字段 target: '_blank' 新页面打开 
 menu:
-  - title: 说明
+  - title:   说明
     url: /pages/about.html
   - title: 搜索
     url: /pages/search.html
