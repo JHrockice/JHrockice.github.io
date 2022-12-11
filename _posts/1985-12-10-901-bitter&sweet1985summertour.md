@@ -17,7 +17,7 @@ categories: [现场视频]
 |    これからNaturally    |    SEYMOUR    |    三室のぼる    |    若草恵    |
 |    Sand Beige -砂漠へ-    |    許瑛子    |    都志見隆    |    井上鑑    |
 |    Solitude    |    湯川れい子    |    タケカワユキヒデ    |    中村哲    |
-|    Babylon メドレー<br/>ロマンティックな夜だわ<br/>Relax<br/>Dynamite<br/>Babylon    |    EPO／Peter Gill・Holly Johnson・Brian Nash・Mark O'Toole／Andrew Goldmark・Bruce Roberts／Sandii    |    EPO／Peter Gill・Holly Johnson・Brian Nash・Mark O'Toole／Andrew Goldmark・Bruce Roberts／久保田真琴    |    椎名和夫／椎名和夫／椎名和夫／井上鑑・久保田真琴    |
+|    Babylon メドレー / ロマンティックな夜だわ / Relax / Dynamite / Babylon    |    EPO／Peter Gill・Holly Johnson・Brian Nash・Mark O'Toole／Andrew Goldmark・Bruce Roberts／Sandii    |    EPO／Peter Gill・Holly Johnson・Brian Nash・Mark O'Toole／Andrew Goldmark・Bruce Roberts／久保田真琴    |    椎名和夫／椎名和夫／椎名和夫／井上鑑・久保田真琴    |
 |    予感    |    飛鳥涼    |    飛鳥涼    |    椎名和夫    |
 |    Dreaming    |    斉藤ノブ    |    与詞古    |    AKAGUY    |
 |    So Long    |    角松敏生    |    角松敏生    |    角松敏生・瀬尾一三（弦乐编曲）  |
