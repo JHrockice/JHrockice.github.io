@@ -20,7 +20,7 @@ categories: [单曲]
 
 **首发规格**：8cmCD: GRDO-11
 
-**唱片公司**：Gauss Entertainment
+**唱片公司**：THIS ONE，Gauss Entertainment
 
 **排行榜**：Oricon公信榜单曲周榜第66位
 
