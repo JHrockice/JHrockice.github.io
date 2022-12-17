@@ -12,7 +12,7 @@ categories: [现场视频]
 
 **发行日期**：5月4日
 
-**Disc 1 "UTAHIME" AKINA NAKAMORI PARCO THEATER LIVE**  [以下收录歌曲视频详情点此跳转](https://akina.rockice.com.cn/posts/1995/03/24/906-utahimeparcotheaterlivet.html)
+**Disc 1 "UTAHIME" AKINA NAKAMORI PARCO THEATER LIVE**  [以下收录歌曲视频详情点此跳转](https://akina.rockice.com.cn/posts/1995/03/24/906-utahimeparcotheaterlive.html)
 
 思秋期，愛染橋，ダンスはうまく踊れない，スローモーション，水に挿した花，ミ・アモーレ〔Meu amor é･･･〕，愛撫，月華，黒薔薇，陽炎，私は風，Rose Bud，予感
 
