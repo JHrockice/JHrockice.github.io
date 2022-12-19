@@ -33,7 +33,7 @@ categories: [最佳专辑]
 
 **唱片公司**：UNIVERSAL J
 
-**排行榜**：Oricon公信榜专辑榜第8位
+**排行榜**：Oricon公信榜专辑周榜第8位
 
 **再发行**：2017年5月3日 - UHQCD: UPCH-7266
 <br/>
