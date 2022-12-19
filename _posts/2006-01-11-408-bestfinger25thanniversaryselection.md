@@ -36,7 +36,7 @@ categories: [最佳专辑]
 
 **唱片公司**：Universal Sigma
 
-**排行榜**：Oricon公信榜专辑榜第29位
+**排行榜**：Oricon公信榜专辑周榜第29位
 
 **再发行**：2017年5月3日 - UHQCD: UPCH-7274
 <br/>
