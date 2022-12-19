@@ -52,6 +52,6 @@ categories: [最佳专辑]
 
 **唱片公司**：MCA Victor
 
-**排行榜**：Oricon公信榜专辑榜第16位
+**排行榜**：Oricon公信榜专辑周榜第16位
 <br/>
 <br/>
