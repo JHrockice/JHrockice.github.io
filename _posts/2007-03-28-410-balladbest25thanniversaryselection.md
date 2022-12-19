@@ -46,7 +46,7 @@ categories: [最佳专辑]
 
 **唱片公司**：Universal Sigma
 
-**排行榜**：Oricon公信榜专辑榜第13位
+**排行榜**：Oricon公信榜专辑周榜第13位
 
 **再发行**：
 
