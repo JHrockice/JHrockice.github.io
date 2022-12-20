@@ -26,5 +26,7 @@ categories: [单曲]
 **排行榜**：Oricon公信榜单曲周榜第10位
 
 **专辑首入**：Lyricism〜BALLAD COLLECTION〜（Warner Music Japan发行的非官方最佳专辑）
+
+**再发行**：2016年7月13日 - 7寸盘: 收入中森明菜アナログセット单曲黑胶限量套装D2JJ-1
 <br/>
 <br/>
