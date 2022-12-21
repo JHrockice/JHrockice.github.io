@@ -12,7 +12,7 @@ categories: [单曲]
 
 **发行日期**：2月24日
 
-|      歌名                        |      作词                                 |    作曲           |
+|      歌名                 |      作词             |    作曲       |    编曲       |
 | :------------------------ | :------------------------------- | :------------- |
 |    ひらり -SAKURA-    |    新藤晴一    |    宗本康兵    |    宗本康兵, 森田“Johnny”貴裕    |
 |    FIXER -WHILE THE WOMEN ARE SLEEPING- 单曲版    |    Miran, Dream Productions, Brian Lee    |    Miran, Dream Productions, Brian Lee    |    Miran, Dream Productions, Brian Lee    |
